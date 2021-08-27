@@ -1,0 +1,1 @@
+# This project is web scrapping for [Samsung products in souq.com](https://egypt.souq.com/eg-en/samsung/mobile-phones-33%7Csmart-watches-511%7Ctablets-94%7Cfitness-technology-498%7Cpower-banks-562/samsung/a-t-7/s/?_=1500309575629&sortby=sr&ref=nav&section=2&page=1) by using Selenium webdriver in Python.
