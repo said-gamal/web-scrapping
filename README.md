@@ -1,1 +1,1 @@
-# web-scrapping
+# This folder contains web scrapping projects
